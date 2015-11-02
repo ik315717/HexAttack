@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd3b115cbefffd5468e50a2dbb471598
+timeCreated: 1443902204
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - left_button: {fileID: 2800000, guid: 34d8d6a46b835e0489e4f08b0dafdac2, type: 3}
+  - down_button: {fileID: 2800000, guid: f6417a4dc9860284cb9cc3252ce8959d, type: 3}
+  - up_button: {fileID: 2800000, guid: 55f53c71d58f0cb4388c8e07e7553cdc, type: 3}
+  - right_button: {fileID: 2800000, guid: dc9bfd0133f838a4ab392e2dd51054e2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
